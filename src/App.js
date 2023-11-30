@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React new added
+          Learn React new added nov 30 nwe puch
         </a>
       </header>
     </div>
