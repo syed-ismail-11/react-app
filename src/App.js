@@ -26,7 +26,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React new added nov 30 nwe puch sdjkhfkjvr
+          Learn React new added nov 30 nwe puch sdjkhfkjvr correctd deploy spelling
         </a>
       </header>
     </div>
