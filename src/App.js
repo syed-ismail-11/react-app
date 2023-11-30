@@ -26,7 +26,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React new added nov 30 nwe puch
+          Learn React new added nov 30 nwe puch sdjkhfkjvr
         </a>
       </header>
     </div>
