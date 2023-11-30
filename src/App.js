@@ -2,6 +2,17 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const updateNews = async () => {
+   // props.setProgress(10);
+    const url = `https://newsapi.org/v2/top-headlines?country=in&category=general&apiKey=f77a1e37e4284d009faa178bef19d1cb&page=1&pageSize=10`;
+   // setLoading(true);
+    let data = await fetch(url);
+    
+    let parsedData = await data.json();
+    console.log(parsedData)
+  };
+
+    updateNews();
   return (
     <div className="App">
       <header className="App-header">
